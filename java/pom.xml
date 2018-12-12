@@ -41,10 +41,10 @@
     <properties>
         <java.version>1.8</java.version>
         <source.encoding>UTF-8</source.encoding>
-        <kafka-ops.version>0.2.1</kafka-ops.version>
         <slf4j.version>1.7.21</slf4j.version>
-        <lang-extension.version>1.0.0</lang-extension.version>
+        <lang-extension.version>1.1.0</lang-extension.version>
         <scf-bom.version>1.5.3</scf-bom.version>
+        <kafka-ops.version>0.2.2</kafka-ops.version>
         <codec-util-bom.version>1.1.0</codec-util-bom.version>
         <rpc-util-bom.version>1.1.0</rpc-util-bom.version>
         <javax.inject.version>1</javax.inject.version>
